@@ -34,7 +34,7 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-     "chai": "https://github.com/chaijs/$module",
+     "chai": "https://$PAT@github.com/chaijs/chai.git"
   
   }
 }
